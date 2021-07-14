@@ -11,7 +11,7 @@ Importing the electronics dataset from the Amazon review dataset. The smaller da
 
 !wget http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Software_5.json.gz
 
-"""Importing all the dependencis"""
+"""Importing all the dependencies"""
 
 # Commented out IPython magic to ensure Python compatibility.
 import os
