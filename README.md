@@ -1,8 +1,8 @@
 # Data Source and Information
 ### The [Amazon](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Software_5.json.gz/) dataset contains the customer reviews for all listed Software products spanning from May 1996 up to July 2014. There are a total of 12169 reviews.
-![1 jyf-WdOwrfZnpIRFIYJdJw](https://user-images.githubusercontent.com/40862259/126479640-3ad18b04-1e91-4184-8eb9-e25389b3600c.jpeg)
 
-# Attribute Information
+# Attribute Information![bokeh_plot(2)](https://user-images.githubusercontent.com/40862259/147097460-cfafe5a7-95d4-4bc7-89d3-df1554798992.png)
+
 
     asin - Unique ID of the product being reviewed, string
     vote - number of votes, int32
